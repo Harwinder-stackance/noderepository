@@ -89,12 +89,5 @@ module.exports.connections = {
   * More adapters: https://github.com/balderdashy/sails                      *
   *                                                                          *
   ***************************************************************************/
-<<<<<<< HEAD
- // new Changes here 
- // new Changes for pull requests
-=======
- // check pull data request
-  
-  // new Changes here 
->>>>>>> b73ef3be86d6f32d058a92a324e855cac11f5101
+
 };
